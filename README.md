@@ -1,10 +1,14 @@
 ### Olá, sou António Miguel 👋
 
+🚀 Founder & CEO da Barza, um app mobile-first para conectar clientes e profissionais do setor da beleza em Angola.
 
-- 🔭 Hoje trabalho como backend, atuando com Node js, typescript, Bancos de dados SQL ou NoSQL ...
-- 🌱 Estudando Golang...
-- 🤔 Estudei Analise e Desenvolvimento de Sistemas
-## Olá sou António Gonga Miguel!!
+🎯 Project Management director na Mirantes Technologies, com experiência em liderar equipes e acelerar entregas estratégicas.
+
+💻 Mais de 5 anos de experiência em desenvolvimento de software.
+
+📚 Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, inovação e impacto social.
+
+✨ Aprecio a jornada — cada linha de código, cada decisão de negócio e cada movimento de estratégia têm sido fundamentais para transformar ideias em soluções reais e escaláveis.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamMiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

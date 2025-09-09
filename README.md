@@ -1,6 +1,6 @@
 ### Olá, sou António Miguel 👋
 
-🚀 Founder & CEO da Barza, um app mobile-first para conectar clientes e profissionais do setor da beleza em Angola.
+🚀 Founder & CEO da Barza, um app mobile-first para conectar clientes e profissionais do setor da beleza .
 
 🎯 Project Management director na Mirantes Technologies, com experiência em liderar equipes e acelerar entregas estratégicas.
 
